@@ -11,17 +11,17 @@ Outside of coding, I’m testing new ideas, exploring tech, improving my skills,
 
 」
 
-           .             ​ yanu@world 
-          .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : YanuTech 
-        .lllll.          ​ Language : Python 🐍 
-       ..;'olll.         ​ Focus : AI + Automation 
-      .dolllcccl.        ​ Dev : Websites & Bots 
-     .lcc'   'ccc.       ​ Stack : Flask / APIs / Discord
-    .ccc'     'cc:.      ​ Status : Learning & Building
-   .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     Y   A   N   U   T   E   C   H    火 
+           .             yanu@world
+          .c.            ┌───────────────────────────────┐
+         .ccc.           OS : YanuTech
+        .lllll.          Language : Python 🐍
+       ..;'olll.         Focus : AI + Automation
+      .dolllcccl.        Dev : Websites & Bots
+     .lcc'   'ccc.       Stack : Flask / APIs / Discord
+    .ccc'     'cc:.      Status : Learning & Building
+   .cccc'     'c:;..     └───────────────────────────────┘
+  ."'             '".     Y A N U T E C H 火
 
-yanu in ~ 
+yanu in ~
   λ echo "Keep building. Stay sharp."
 If you like my work, consider supporting me. :)
